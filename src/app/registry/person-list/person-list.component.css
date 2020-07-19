@@ -1,0 +1,27 @@
+ /* Tables Structure */
+ table {
+    width: 100%;
+ }
+ div.table-overflow {
+    max-height: 320px; 
+    overflow: auto;
+ }
+ .mat-form-field {
+    font-size: 14px;
+    width: 40%;
+ }
+ th.mat-header-cell {
+    background-color: #8EC3EB;
+    text-align: left;
+    font-weight: bold;
+    font-size: 14px;
+ }  
+ tr.mat-header-row, .mat-row {
+    height: 30px; 
+ }
+ td.mat-cell {
+    text-align: left;
+ }
+ .mat-raised-button {
+    height: 30px;
+ }

@@ -1,0 +1,16 @@
+.full-width {
+    width: 80%;
+  }
+
+.section-box {
+    font-size: 15px;
+    border: 1px solid lightgrey;
+    padding: 15px;
+    margin: 1px;
+    box-shadow: 1px 3px lightgrey;
+  }
+  
+  .mat-option {
+    height: 30px !important;
+    line-height: 30px !important;
+  }

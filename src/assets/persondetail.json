@@ -1,0 +1,31 @@
+{
+   "id":1,
+   "pertId":3,
+   "userId":"DZHEN",
+   "password":"JackieCHen123",
+   "firstName":"Devon",
+   "lastName":"Zhen",
+   "ssn":123654987,
+   "birthDay":"1996-10-26",
+   "address":{
+      "id":1,
+      "street":"124 13th first Ave",
+      "city":"New York",
+      "state":"NY",
+      "zip":"10009"  
+   },
+   "emgContact":{
+      "id":1,
+      "contactName":"Karena Liang",
+      "contactRelation":"Mother",
+      "contactPhone":"2021346511",
+      "contactEmail":"KarenaJL@Yahoo.com"
+   },
+   "phones":[
+      {
+         "id":61,
+         "phone":"(212) 123-8976",
+         "phoneType":"OFFICE"   
+      } 
+   ]
+}

@@ -1,0 +1,8 @@
+button.mat-raised-button {
+    font-size: 13px;
+    height: 22px;
+    width: 80px;
+    line-height: 22px;
+    align-content: center;
+    background-color: #d7dbdd;
+}

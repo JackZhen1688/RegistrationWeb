@@ -1,0 +1,20 @@
+{
+	"userId": "JZHEN",
+	"password": "111",
+	"confirmPassword": "111",
+	"personType": "FULL_TIME",
+	"firstName": "Jack",
+	"lastName": "Zhen",
+	"ssn": "999999999",
+	"birthDay": "10/26/1996",
+	"datepicker": "2020-02-02T05:00:00.000Z",
+	"contactName": "cName",
+	"contactRelation": "cRelate",
+	"contactPhone": "1111111111",
+	"contactEmail": "ya@mail.mil",
+	"saveAction": "",
+	"phoneArray": [{
+		"phone": "",
+		"phoneType": ""
+	}]
+}

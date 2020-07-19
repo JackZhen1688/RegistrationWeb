@@ -1,0 +1,25 @@
+<div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="alert alert-danger">
+          <div class="row">
+            <div class="col-sm-1">
+                <img width="30" height="30" src="assets/images/stop-sign.png">
+            </div>
+            <div class="col-sm-11 small">
+                &nbsp; {{data.message}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-5"></div>
+      <div class="col-sm-2">
+        <div mat-dialog-actions>
+          <button mat-raised-button (click)="onOk()">OK</button>
+        </div>
+      </div>
+      <div class="col-sm-5"></div>
+    </div>  
+  </div>
